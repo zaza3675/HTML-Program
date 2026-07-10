@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+}
+
+main p{
+    font-size: 22px;
+    line-height: 1.6;
+}
+
+nav{
+    font-size: 20px;
+}
+
+.card-dep {
+  width: 100%;
+  max-width: 350px;
+  padding: 24px;
+  border: 1px solid #3c3d3f;
+  border-radius: 12px;
+  margin: 20px auto;
+  background-color: #7d91b7;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
